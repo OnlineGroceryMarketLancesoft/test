@@ -1,0 +1,42 @@
+What is JavaScript, and how does it differ from Java?
+Explain the event loop and the concept of non-blocking I/O in JavaScript.
+What are closures in JavaScript, and why are they important?
+How does prototypal inheritance work in JavaScript?
+Describe the difference between null and undefined in JavaScript.
+What is the difference between let, const, and var in variable declaration?
+Explain the purpose of the this keyword in JavaScript.
+Describe how promises work and their role in asynchronous programming.
+What are the different ways to handle errors in JavaScript?
+How can you avoid callback hell (or pyramid of doom) in asynchronous code?
+What is a closure? Provide an example where closures are useful.
+Describe the concept of hoisting in JavaScript.
+Explain the difference between == and === in JavaScript for equality comparison.
+What is the purpose of the bind, call, and apply methods in JavaScript?
+How does event delegation work, and why is it useful?
+What is the role of the localStorage and sessionStorage objects in web development?
+Explain the same-origin policy and how it affects JavaScript in the browser.
+What is a RESTful API, and how can you make API requests in JavaScript?
+Describe the different ways to define functions in JavaScript.
+What is the purpose of the map, reduce, and filter functions in JavaScript?
+Explain the concept of a "callback" function in JavaScript.
+What is a Promise in JavaScript, and how can you handle multiple Promises?
+Describe the differences between the ES6 classes and the prototype-based inheritance model.
+How does the "spread" operator (...) work in JavaScript, and what are its use cases?
+What is destructuring in JavaScript, and how is it used with objects and arrays?
+Explain the concept of scope in JavaScript and how it relates to variable visibility.
+What is the purpose of the async/await syntax in JavaScript, and how does it work?
+Describe the differences between local and session storage in the browser.
+What are the benefits and limitations of using the WebSocket protocol in web applications?
+How can you optimize the performance of a web application in terms of JavaScript execution and network requests?
+Why do we use the word “debugger” in javascript?
+.What do you know about the JavaScript ES6 version?
+Explain the same-origin policy and how it affects JavaScript in the browser.
+How does event delegation work, and why is it useful?
+Describe the differences between ES6 classes and the prototype-based inheritance model.
+What is the purpose of the async/await syntax in JavaScript, and how does it work?
+How can you optimize the performance of a web application in terms of JavaScript execution and network requests?
+Explain the concept of service workers and their role in progressive web apps.
+Describe how you would handle CORS issues in a JavaScript application.
+What are WebSockets, and how can you use them in real-time applications?
+Explain the principles of responsive web design and how media queries work in CSS.
+
